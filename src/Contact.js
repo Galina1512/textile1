@@ -69,7 +69,7 @@ function Contact() {
                    </div>
                    <div class="adress">
                       <p className="info first">Телефон или WhathsApp</p>
-                      <p className="info "><a className="email" href="https://wa.me/79602350637" target="_blank">+7 981 894 6047</a></p>
+                      <p className="info "><a className="email" href="https://wa.me/79602350637" target="_blank">+7 9881565722</a></p>
                    </div>
                 </div>
                 <div className="block-d">
