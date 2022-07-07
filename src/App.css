@@ -459,6 +459,9 @@ min-width: 100%;
 .block-d {
   display: flex;
 }
+.emoji{
+  font-size:30px;
+}
 .adress{
   padding-left: 20px;
 }
